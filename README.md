@@ -11,7 +11,7 @@
 ## Model Description : 
 + **Git-base-One-Piece** is a fine-tuned variant of Microsoft's **git-base** model, specifically trained for the task of generating descriptive text captions for images from the **One-Piece-anime-captions**'** dataset. 
 
-+ The dataset consists of **856 {image: caption}** pairs, providing a substantial and diverse training corpus for the model.
++ The dataset consists of **856 {image: caption}** pairs, providing a substantial and diverse training corpus for the model.**https://huggingface.co/datasets/ayoubkirouane/One-Piece-anime-captions**
 
 + The model is conditioned on both CLIP image tokens and text tokens and employs a **teacher forcing** training approach. It predicts the next text token while considering the context provided by the image and previous text tokens.
 
