@@ -1,4 +1,4 @@
-# One-Piece Anime Captions APP
+# One Piece Image Captioning APP
 
 ## Model Details : 
 
