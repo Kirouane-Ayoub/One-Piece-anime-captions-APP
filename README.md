@@ -16,6 +16,8 @@
 + The model is conditioned on both CLIP image tokens and text tokens and employs a **teacher forcing** training approach. It predicts the next text token while considering the context provided by the image and previous text tokens.
 
 
+![git_architecture](https://github.com/Kirouane-Ayoub/One-Piece-anime-captions-APP/assets/99510125/28a42bc3-d64b-4fe8-b665-78b445bea22b)
+
 
 ## Limitations : 
 + The quality of generated captions may vary depending on the complexity and diversity of images from the 'One-Piece-anime-captions' dataset.
