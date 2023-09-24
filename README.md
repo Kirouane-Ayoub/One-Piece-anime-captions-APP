@@ -53,3 +53,5 @@ python app.py
 
 
 ![Screenshot at 2023-09-23 16-11-25](https://github.com/Kirouane-Ayoub/One-Piece-anime-captions-APP/assets/99510125/1ee31693-8104-41a8-97ae-1855bed60576)
+
+- **By Kirouane Ayoub**
